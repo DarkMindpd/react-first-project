@@ -38,13 +38,13 @@ const App = () => {
           <main className="my-8">
             <div className="container mx-auto px-6">
               <Routes>
-                <Route path="/" element={<Landing />} />
+                <Route path="/react-first-project/" element={<Landing />} />
                 <Route
-                  path="/Shop"
+                  path="/react-first-project/Shop"
                   element={<Shop products={products.Fashions} />}
                 />
                 <Route
-                  path="/Fashions"
+                  path="/react-first-project/Fashions"
                   element={<Fashions products={products.Shop} />}
                 />
               </Routes>

@@ -68,34 +68,34 @@ const Menu = () => {
             <div className="flex flex-col sm:flex-row">
               <Link
                 className={
-                  where === "/"
+                  where === "/react-first-project/"
                     ? "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0 shadow-lg rounded-sm bg-gray-200"
                     : "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0"
                 }
-                to="/"
+                to="/react-first-project/"
                 onClick={() => setWhere("/")}
               >
                 Home
               </Link>
               <Link
                 className={
-                  where === "/Shop"
+                  where === "/react-first-project/Shop"
                     ? "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0 shadow-lg rounded-sm bg-gray-200"
                     : "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0"
                 }
                 to="/Shop"
-                onClick={() => setWhere("/Shop")}
+                onClick={() => setWhere("/react-first-project/Shop")}
               >
                 Shop
               </Link>
               <Link
                 className={
-                  where === "/Fashions"
+                  where === "/react-first-project/Fashions"
                     ? "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0 shadow-lg rounded-sm bg-gray-200"
                     : "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0"
                 }
                 to="/Fashions"
-                onClick={() => setWhere("/Fashions")}
+                onClick={() => setWhere("/react-first-project/Fashions")}
               >
                 Fashions
               </Link>
