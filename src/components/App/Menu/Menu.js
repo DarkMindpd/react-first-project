@@ -73,7 +73,7 @@ const Menu = () => {
                     : "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0"
                 }
                 to="/react-first-project/"
-                onClick={() => setWhere("/")}
+                onClick={() => setWhere("/react-first-project/")}
               >
                 Home
               </Link>
@@ -83,7 +83,7 @@ const Menu = () => {
                     ? "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0 shadow-lg rounded-sm bg-gray-200"
                     : "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0"
                 }
-                to="/Shop"
+                to="/react-first-project/Shop"
                 onClick={() => setWhere("/react-first-project/Shop")}
               >
                 Shop
@@ -94,7 +94,7 @@ const Menu = () => {
                     ? "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0 shadow-lg rounded-sm bg-gray-200"
                     : "mt-3 text-gray-600 hover:underline sm:mx-3 sm:mt-0"
                 }
-                to="/Fashions"
+                to="/react-first-project/Fashions"
                 onClick={() => setWhere("/react-first-project/Fashions")}
               >
                 Fashions
