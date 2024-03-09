@@ -3,7 +3,7 @@ const Landing = () => {
     <>
       <div
         className="h-64 rounded-md overflow-hidden bg-cover bg-center"
-        style={{ backgroundImage: "url('../images/Home1.avif')" }}
+        style={{ backgroundImage: "url('./images/Home1.avif')" }}
       >
         <div className="bg-gray-900 bg-opacity-50 flex items-center h-full">
           <div className="px-10 max-w-xl">
@@ -32,7 +32,7 @@ const Landing = () => {
       <div className="md:flex mt-8 md:-mx-4">
         <div
           className="w-full h-64 md:mx-4 rounded-md overflow-hidden bg-cover bg-center md:w-1/2"
-          style={{ backgroundImage: "url('../images/Home2.avif')" }}
+          style={{ backgroundImage: "url('./images/Home2.avif')" }}
         >
           <div className="bg-gray-900 bg-opacity-50 flex items-center h-full">
             <div className="px-10 max-w-xl">
@@ -61,7 +61,7 @@ const Landing = () => {
         </div>
         <div
           className="w-full h-64 mt-8 md:mx-4 rounded-md overflow-hidden bg-cover bg-center md:mt-0 md:w-1/2"
-          style={{ backgroundImage: "url('../images/Home3.avif')" }}
+          style={{ backgroundImage: "url('./images/Home3.avif')" }}
         >
           <div className="bg-gray-900 bg-opacity-50 flex items-center h-full">
             <div className="px-10 max-w-xl">
