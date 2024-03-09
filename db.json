@@ -1,0 +1,177 @@
+{
+  "Shop": [
+    {
+      "id": 1,
+      "title": "watch",
+      "img": "../images/1.jpg",
+      "price": "21$"
+    },
+    {
+      "id": 2,
+      "title": "shoes",
+      "img": "../images/2.jpg",
+      "price": "29$"
+    },
+    {
+      "id": 3,
+      "title": "watch",
+      "img": "../images/3.jpg",
+      "price": "334$"
+    },
+    {
+      "id": 4,
+      "title": "watch",
+      "img": "../images/4.jpg",
+      "price": "76$"
+    },
+    {
+      "id": 5,
+      "title": "watch",
+      "img": "../images/5.jpg",
+      "price": "99$"
+    },
+    {
+      "id": 6,
+      "title": "dress",
+      "img": "../images/6.jpg",
+      "price": "35$"
+    },
+    {
+      "id": 7,
+      "title": "shoes",
+      "img": "../images/7.jpg",
+      "price": "83$"
+    },
+    {
+      "id": 8,
+      "title": "dress",
+      "img": "../images/8.jpg",
+      "price": "41$"
+    },
+    {
+      "id": 9,
+      "title": "shoes",
+      "img": "../images/9.jpg",
+      "price": "85$"
+    },
+    {
+      "id": 10,
+      "title": "shoes",
+      "img": "../images/10.jpg",
+      "price": "122$"
+    }
+  ],
+  "Fashions": [
+    {
+      "id": 1,
+      "title": "Nissan GTR R35 black matte",
+      "img": "../images/11.jpg",
+      "price": "Priceless"
+    },
+    {
+      "id": 2,
+      "title": "ps4 controller",
+      "img": "../images/12.jpg",
+      "price": "59$"
+    },
+    {
+      "id": 3,
+      "title": "Gamepad",
+      "img": "../images/13.jpg",
+      "price": "34$"
+    },
+    {
+      "id": 4,
+      "title": "White ps4 controller",
+      "img": "../images/14.jpg",
+      "price": "69$"
+    },
+    {
+      "id": 5,
+      "title": "fake ps4 controller",
+      "img": "../images/15.jpg",
+      "price": "23$"
+    },
+    {
+      "id": 6,
+      "title": "nintendo switch",
+      "img": "../images/16.jpg",
+      "price": "259$"
+    },
+    {
+      "id": 7,
+      "title": "Nissan GTR R34 ",
+      "img": "../images/17.jpg",
+      "price": "priceless"
+    },
+    {
+      "id": 8,
+      "title": "dress",
+      "img": "../images/18.jpg",
+      "price": "44$"
+    },
+    {
+      "id": 9,
+      "title": "dress",
+      "img": "../images/19.jpg",
+      "price": "34$"
+    },
+    {
+      "id": 10,
+      "title": "dress",
+      "img": "../images/20.jpg",
+      "price": "169$"
+    },
+    {
+      "id": 11,
+      "title": "watch",
+      "img": "../images/21.jpg",
+      "price": "999$"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "title": "About",
+      "href": "#",
+      "submenu": []
+    },
+    {
+      "id": 2,
+      "title": "Services",
+      "href": "#",
+      "submenu": [
+        
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pricing",
+      "href": "#",
+      "submenu": []
+    },
+    {
+      "id": 4,
+      "title": "About",
+      "href": "#",
+      "submenu": []
+    },
+    {
+      "id": 5,
+      "title": "Products",
+      "href": "#",
+      "submenu": [
+        {
+          "id": 1,
+          "title": "juice",
+          "href": "#"
+        },
+        {
+          "id": 2,
+          "title": "energy drink",
+          "href": "#"
+        }
+      ]
+    }
+  ]
+}
