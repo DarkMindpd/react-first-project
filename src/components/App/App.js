@@ -13,7 +13,7 @@ const App = () => {
   const fetchData = async () => {
     try {
       const response = await axios.get(
-        "https://api.jsonbin.io/v3/b/65ebf039dc74654018b03bd2",
+        "https://api.jsonbin.io/v3/b/65ebf6aa266cfc3fde95c612",
         {
           headers: {
             "X-Master-Key":
